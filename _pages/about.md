@@ -18,7 +18,7 @@ I'm a PhD candidate studying motor learning and performance. I consider myself a
 
 Placeholder for pictures.
 ======
-![image](shooting.PNG)
+![image](images/shooting.PNG)
 
 What I'm working on
 ------
