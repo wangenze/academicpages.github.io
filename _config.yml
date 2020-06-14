@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Peiyuan (Boki) Wang - Brain, Body, and Basketball"
+title                    : "Boki's Bowl-Brain, Body, and Basketball"
 title_separator          : "-"
 name                     : &name "Peiyuan (Boki) Wang"
-description              : &description "Personal website with blogging"
+description              : &description "Personal website and blogs"
 url                      : https://boki-p.github.io/academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "boki-p/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,14 +81,17 @@ analytics:
 # Site Author
 author:
   name             : "Peiyuan (Boki) Wang MS"
-  avatar           : "Professional.jpg"
-  bio              : "PhD Candidate in Biomedical Engineering @Arizona State University. Somehow my interests in the brain and the body has been driven by a passion for basketball."
+  avatar           : "ProfessionalSquare.jpg"
+  bio              : "PhD Candidate @Arizona State University. Conducting motor learning research and having some fun with it."
   location         : "Tempe, AZ"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=5qAr2IwAAAAJ&hl=en"
   email            : "boki@asu.edu"
+  github           : "boki-p"
+  linkedin         : "https://www.linkedin.com/in/bokiwang/"
+  twitter          : "BokiPWang"
   researchgate     : "https://www.researchgate.net/profile/Peiyuan_Wang3"
+  googlescholar    : "https://scholar.google.com/citations?user=5qAr2IwAAAAJ&hl=en"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +99,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "boki-p"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/bokiwang/"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "BokiPWang"
   vine             :
   weibo            :
   xing             :
