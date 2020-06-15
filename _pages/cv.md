@@ -7,10 +7,8 @@ redirect_from:
   - /resume
 toc: true
 toc_label: "Go To"
-toc_icon: "list" # corresponding Font Awesome icon name (without fa prefix)
+toc_icon: "list" 
 ---
-
-{% include base_path %}
 
 ## Education
 
