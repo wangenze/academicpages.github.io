@@ -1,8 +1,8 @@
 ---
-layout: archive
+layout: single
+author_profile: true
 title: "CV"
 permalink: /cv/
-author_profile: true
 redirect_from:
   - /resume
 toc: true
@@ -56,42 +56,37 @@ toc_icon: "list" # corresponding Font Awesome icon name (without fa prefix)
 
 ## Honors and Awards
 
-2020      School of Biological and Health Systems Engineering Graduate Excellence Award
-2020      ASU Graduate College Completion Fellowship for Spring 2021
-2020      NASPSPA student Scholarship for NASPSPA 2020 Conference
-2020      School of Biological and Health Systems Engineering Merit Award
-2019      Teaching Excellence Award, ASU Graduate and Professional Students Association 
-2019      Phoenix Pride Scholarship
-2018      Student Advocacy Award, International Society of Neurofeedback & Research
-2018      Individual Travel Grant, ASU Graduate and Professional Students Association 
-2017      Fulton Schools Research Travel Grant, ASU
-2017      First place research poster, Penn State 32nd Graduate Research Exhibition
-2016      Student Travel Award, PSU Center for Brain, Behavior and Cognition 
-2014      Outstanding Graduates Award, Tianjin University
-2013      Honors Student Award, Tianjin University
-2012      Tianjin People’s Government Scholarship
-2011      Shanghai Pudong Development Bank Scholarship 
+- 2020      School of Biological and Health Systems Engineering Graduate Excellence Award
+- 2020      ASU Graduate College Completion Fellowship for Spring 2021
+- 2020      NASPSPA student Scholarship for NASPSPA 2020 Conference
+- 2020      School of Biological and Health Systems Engineering Merit Award
+- 2019      Teaching Excellence Award, ASU Graduate and Professional Students Association 
+- 2019      Phoenix Pride Scholarship
+- 2018      Student Advocacy Award, International Society of Neurofeedback & Research
+- 2018      Individual Travel Grant, ASU Graduate and Professional Students Association 
+- 2017      Fulton Schools Research Travel Grant, ASU
+- 2017      First place research poster, Penn State 32nd Graduate Research Exhibition
+- 2016      Student Travel Award, PSU Center for Brain, Behavior and Cognition 
+- 2014      Outstanding Graduates Award, Tianjin University
+- 2013      Honors Student Award, Tianjin University
+- 2012      Tianjin People’s Government Scholarship
+- 2011      Shanghai Pudong Development Bank Scholarship 
 
 ## Professional Experience
-2017-     Graduate Research Associate
-- School of Biological and Health Systems Engineering, Arizona State University
+- 2017- , Graduate Research Associate, Motor Rehabilitation and Learning Laboratory, School of Biological and Health Systems Engineering, Arizona State University
 
-2015-2017   Graduate Research Assistant, Brain and Behavior Laboratory 
-- Department of Kinesiology, The Pennsylvania State University
+- 2015-2017, Graduate Research Assistant, Brain and Behavior Laboratory, Department of Kinesiology, The Pennsylvania State University
 
-2015-2017   Teaching Assistant
-- KINES 360 The Neurobiology of Motor Control and Development (4 semesters)
-- Department of Kinesiology, The Pennsylvania State University
+- 2015-2017, Teaching Assistant, **KINES 360 The Neurobiology of Motor Control and Development** (4 semesters), Department of Kinesiology, The Pennsylvania State University
 
-2012-2014   Undergraduate Research Assistant, Neural Engineering and Rehabilitation Lab
-- Department of Biomedical Engineering, Tianjin University
+- 2012-2014, Undergraduate Research Assistant, Neural Engineering and Rehabilitation Lab, Department of Biomedical Engineering, Tianjin University
 
 ## Service and Leadership
 
-2018.12 -     Secretary, GRADient, Arizona State University, Tempe AZ
-2019.11 -     Volunteer, Data-related solutions, Arizona State Sun Devils Women’s Basketball
-2020.01 - 05  Award reviewer for ASU Graduate and Professional Student Association
-2019 - 2020   Club Officer, Melrose Toastmasters, Phoenix, AZ
-2018          Travel Grant reviewer for ASU Graduate and Professional Student Association
-2018          Youth Basketball Coach at Jr. Suns/Jr. Mercury League, Scottsdale AZ
-2018          Volunteer, 2018 International Society for Neufofeedback & Research conference
+- 2018.12 - , Secretary, GRADient, Arizona State University, Tempe AZ
+- 2019.11 - , Volunteer, Data-related solutions, Arizona State Sun Devils Women’s Basketball
+- 2020.01 - 05, Award reviewer for ASU Graduate and Professional Student Association
+- 2019 - 2020, Club Officer, Melrose Toastmasters, Phoenix, AZ
+- 2018, Travel Grant reviewer for ASU Graduate and Professional Student Association
+- 2018, Youth Basketball Coach at Jr. Suns/Jr. Mercury League, Scottsdale AZ
+- 2018, Volunteer, 2018 International Society for Neufofeedback & Research conference
