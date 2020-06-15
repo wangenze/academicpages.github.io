@@ -5,6 +5,9 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+toc: true
+toc_label: "Go To"
+toc_icon: "list" # corresponding Font Awesome icon name (without fa prefix)
 ---
 
 {% include base_path %}
