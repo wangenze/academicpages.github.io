@@ -9,8 +9,6 @@ toc_label: "Go To"
 toc_icon: "list" 
 ---
 
-Words I've just changed
-
 ## Education
 
 * Ph.D in Biomedical Engineering, Arizona State University, 2021 (expected)
